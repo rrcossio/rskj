@@ -92,7 +92,7 @@ public class RegTestConfig extends GenesisConfig {
     }
 
     @Override
-    public boolean isRskIp15Bis() {
+    public boolean isRskIp85() {
         return true;
     }
 }

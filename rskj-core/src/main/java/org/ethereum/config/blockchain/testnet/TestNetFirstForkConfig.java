@@ -23,7 +23,7 @@ public class TestNetFirstForkConfig extends TestNetAfterBridgeSyncConfig {
     }
 
     @Override
-    public boolean isRskIp15Bis() {
+    public boolean isRskIp85() {
         return true;
     }
 }
